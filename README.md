@@ -18,7 +18,7 @@
 <p dir="rtl">
 
   سلام خیلی خوش اومدید 🖐<br><br>
-  امیررضا شریف زاده هستم<br><br>
+   امیررضا شریف زاده هستم<br><br>
   دانشجوی کارشناسی مهندسی کامپیوتر دانشگاه علم و صنعت<br><br><br>
   علایقم ❤️:<br>
   <ol dir="rtl">
@@ -32,8 +32,21 @@
   🎥<br><br><br>
 
 تیم های مورد علاقم : بارسلونا و استقلال<br><br>
-فیلم مورد علاقم:  Forrest Gump<br><br>
-سریال مورد علاقم :Sherlock Holmes 🕵️<br><br>
+فیلم مورد علاقم:  Forrest Gump<br>
+  <details>
+    Forrest Gump(1994) <br>
+    Summery:<br>
+    Forrest, a man with low IQ, recounts the early years of his life<br>
+    when he found himself in the middle of key historical events.<br>
+    All he wants now is to be reunited with his childhood sweetheart, Jenny.<br>
+  </details><br>
+سریال مورد علاقم :Sherlock Holmes 🕵️<br>
+  <details>
+    Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes,<br>
+    an eccentric individual with a knack for solving crimes.<br>
+    Together, they take on the most unusual cases.<br>
+  </details><br>
+
 شاعر مورد علاقم : حضرت حافظ<br><br>
 </ol>
 </p>
@@ -45,9 +58,11 @@
 </h2>
 <center>
 
+
 <img src="download.jpg" height="300" width="400" alt="عکس بارگذاری نشد" >
 </center>
   <p style="font-size: large">
+
     Khwāja Shams-ud-Dīn Muḥammad Ḥāfeẓ-e Shīrāzī (Persian: خواجه شمس‌‌الدین محمّد حافظ شیرازی‎),
     known by his pen name Hafez (حافظ, Ḥāfeẓ, 'the memorizer; the (safe) keeper'; 1315-1390) and as "Hafiz",
     was a Persian poet,whose collected works are regarded by many Iranians as a pinnacle of Persian literature.
@@ -90,7 +105,11 @@
 
 
     دمی با غم به سر بردن جهان یک سر نمی‌ارزد<br><br>
-    به می بفروش دلق ما کز این بهتر نمی‌ارزد<br><br>
+    به می بفروش
+    <a href="http://www.vajehyab.com/?q=%D8%AF%D9%84%D9%82&d=en" style="color: darkslategrey">
+      دلق
+    </a>
+    ما کز این بهتر نمی‌ارزد<br><br>
     به کوی می فروشانش به جامی بر نمی‌گیرند<br><br>
     زهی سجاده تقوا که یک ساغر نمی‌ارزد<br><br>
     رقیبم سرزنش‌ها کرد کز این باب رخ برتاب<br><br>
@@ -108,11 +127,19 @@
 
   </p>
 
-<address>
-  telegram:@amirsharif80 <br>
-  email:<br>amirrezasharifzade80@gmail.com<br>
-      sharifzade_amir@comp.iust.ac.ir
-</address>
+<footer>
+ <button>
+   راه های ارتباطی با من
+   <details >
+     <address><br>
+       telegram:@amirsharif80 <br><hr>
+       email:<br>amirrezasharifzade80@gmail.com<br>
+       sharifzade_amir@comp.iust.ac.ir
+     </address>
 
+   </details>
+ </button>
+
+</footer>
 </body>
 </html>
